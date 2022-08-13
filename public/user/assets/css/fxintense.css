@@ -1,0 +1,96 @@
+
+/* General styles for the modal */
+
+.content-header {
+    padding: 5px 10px 0px 10px;
+}
+
+.marron {
+    color: #d81b60;
+}
+
+.primary {
+    color: #007bff;
+}
+
+.info {
+    color: #17a2b8;
+}
+
+.success {
+    color: #28a745;
+}
+
+.warning {
+    color: #dc3545;
+}
+
+.black {
+    color: #000000;
+}
+
+.gray-dark {
+    color: #343a40;
+}
+
+.gray {
+    color: #adb5bd;
+}
+
+.indigo {
+    color: #6610f2;
+}
+
+.lightblue {
+    color: #3c8dbc
+}
+
+.navy {
+    color: #001f3f;
+}
+
+.purple {
+    color: #605ca8;
+}
+
+.fuchsia {
+    color: #f012be;
+}
+
+.pink {
+    color: #e83e8c;
+}
+
+.orange {
+    color: #ff851b;
+}
+
+.lime {
+    color: #01ff70;
+}
+
+.teal {
+    color: #39cccc;
+}
+
+.olive {
+    color: #3d9970;
+}
+.main-body .page-wrapper {
+   
+    -webkit-transition: all ease-in 0.3s;
+    transition: all ease-in 0.3s;
+  }
+  .mycard-block {
+    padding: 10px;
+  } 
+@media only screen and (max-width: 575px) {
+    .mobile-menu {
+        padding-right: 300px !important;
+    }
+}
+@media only screen and (max-width: 992px) {
+    .mobile-menu {
+        padding-right: 300px !important;
+    }
+}
